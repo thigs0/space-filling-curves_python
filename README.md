@@ -3,8 +3,9 @@
 ## To product a video about Space-filling curve, a make a code based on  Lindenmayer system, with objective animate with python  
 
 
->At 2D, was used the Turtle    
-*Curves* 
+<At 2D, was used the Turtle    
+
+**Curves** 
 
 - sierspinski_curve
 
