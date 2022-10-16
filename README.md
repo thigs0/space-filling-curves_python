@@ -17,9 +17,9 @@
 
 - dragon curve 
 
-> At 3d, was used the aplications matplotlib    
+< At 3d, was used the aplications matplotlib    
 
-*Curves*
+**Curves**
 
 - Hilbert curve ![hilbert_3d](https://user-images.githubusercontent.com/99839465/196054029-03ccf116-b378-4f91-89ca-a65fc8b26a08.png)
 
