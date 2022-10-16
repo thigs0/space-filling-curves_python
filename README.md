@@ -20,4 +20,7 @@
 
 *Curves*
 
-Hilbert curve
+- Hilbert curve ![hilbert_3d](https://user-images.githubusercontent.com/99839465/196054029-03ccf116-b378-4f91-89ca-a65fc8b26a08.png)
+
+- Peano curve ![peano_3d](https://user-images.githubusercontent.com/99839465/196054031-6739a95e-c115-4c55-a5ea-cc8398997a32.png)
+
