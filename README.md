@@ -3,7 +3,7 @@
 ## To product a video about Space-filling curve, a make a code based on  Lindenmayer system, with objective animate with python  
 
 
-<At 2D, was used the Turtle    
+> At 2D, was used the Turtle    
 
 **Curves** 
 
@@ -17,7 +17,7 @@
 
 - dragon curve 
 
-< At 3d, was used the aplications matplotlib    
+> At 3d, was used the aplications matplotlib    
 
 **Curves**
 
