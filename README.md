@@ -10,7 +10,7 @@
 
 - Hilbert_curve 
 
-- Peano_curve ![imagens/peano_curve.GIT]
+- Peano_curve ![Peano_curve](https://user-images.githubusercontent.com/99839465/196053748-82ab6283-ed5d-4b40-b444-6f5ea853b144.GIF)
 - Gosper_Flowsnake_curve 	
 - dragon curve  
 > At 3d, was used the aplications matplotlib    
