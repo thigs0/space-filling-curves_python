@@ -2,6 +2,12 @@
 
 ## To product a video about Space-filling curve, a make a code based on  Lindenmayer system, with objective animate with python  
 
+Corrigir:
+
+- The 3d curves have a error at constants. At both
+
+- The Gosper_Flowsnake_curve have a little erro that make the iteraction >3 colapse in some lines
+
 
 > At 2D, was used the Turtle    
 
