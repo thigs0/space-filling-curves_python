@@ -9,6 +9,7 @@
 - The Gosper_Flowsnake_curve have a little erro that make the iteraction >3 colapse in some lines
 **Plus**
   - Add proprietis to change colors with make the iteractions
+  - Add the options which Letter start
 
 > At 2D, was used the Turtle    
 
