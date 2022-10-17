@@ -24,7 +24,7 @@
 
 - dragon curve
 
-- Pablo curve That a create to a friend
+- Pablo curve, that a create to a friend
 
 > At 3d, was used the aplications matplotlib    
 
