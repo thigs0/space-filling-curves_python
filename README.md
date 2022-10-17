@@ -22,7 +22,9 @@
 
 - Gosper_Flowsnake_curve ![Gosper_curve](https://user-images.githubusercontent.com/99839465/196053969-04ad53a4-6cda-4266-b820-bd317225cd01.GIF)
 
-- dragon curve 
+- dragon curve
+
+- Pablo curve That a create to a friend
 
 > At 3d, was used the aplications matplotlib    
 
