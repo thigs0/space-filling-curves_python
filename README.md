@@ -2,6 +2,10 @@
 
 ## To product a video about Space-filling curve, a make a code based on  Lindenmayer system, with objective animate with python  
 
+It can be used to teach about recursive functions, to product video and teach childrens about the turtle power.
+
+To construct the curve faster, use https://github.com/PrincetonLIPS/numpy-hilbert-curve
+
 **Corrigir:**
 
 - The 3d curves have a error at constants. At both
@@ -10,6 +14,31 @@
 **Plus**
   - Add proprietis to change colors with make the iteractions
   - Add the options which Letter start
+  
+  
+  **How to use**
+  
+  - Install the package
+  
+  - import as "from . import function_name"
+  
+  - to plot in 2D, only select the start letter. Choose one below
+  
+| Function  | Starts letters  |   |   |   |
+|---|---|---|---|---|
+| sierspinski_curve  | S  | R  | Z  | P  |
+|  hilbert_curve | C |  H | A  | B  |
+|  peano_curve |  P | Q  | R  | S  |
+|gosper_Flowsnake_curve | G | R | | | 
+| pablo_curve | A | B | C | D |
+
+  
+  - to plot in 3D, select the start letter and call the function "plot()"
+  
+| function   | Letters |   |   |   |   |   |   |   |   |   |   |   |
+|------------|---------|---|---|---|---|---|---|---|---|---|---|---|
+| hilbert_3D | A       | B | C | D | E | F | G | H | I | J | K | L |
+| peano_3D   |    S     | P | R | Q |  |   |   |   |   |   |   |   |
 
 > At 2D, was used the Turtle    
 
