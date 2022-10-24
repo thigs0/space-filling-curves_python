@@ -61,6 +61,8 @@ ls = ls.L_SpaceCurves(leng=10, speed=0, iter=2, origin=(0, 0))
 
 - Pablo curve, that a create to a friend
 
+![pablo_curve](https://user-images.githubusercontent.com/99839465/197441027-55fc54d7-5c7c-4fe2-9d65-5811ce701337.png)
+
 > At 3d, was used the aplications matplotlib    
 
 **3D Curves**
