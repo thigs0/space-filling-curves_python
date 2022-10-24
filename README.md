@@ -21,7 +21,11 @@ To construct the curve faster, use https://github.com/PrincetonLIPS/numpy-hilber
   - Install the package
   > **pip install L-SpaceCurves**
   
-  - import as "from . import function_name"
+```
+from L_SpaceCurves import L_SpaceCurves as ls
+
+ls = ls.L_SpaceCurves(leng=10, speed=0, iter=2, origin=(0, 0))
+```
   
   - to plot in 2D, only select the start letter. Choose one below
   
