@@ -19,7 +19,7 @@ To construct the curve faster, use https://github.com/PrincetonLIPS/numpy-hilber
   **How to use**
   
   - Install the package
-  > pip install L-SpaceCurves
+  > **pip install L-SpaceCurves**
   
   - import as "from . import function_name"
   
