@@ -24,7 +24,7 @@ To construct the curve faster, use https://github.com/PrincetonLIPS/numpy-hilber
 ```
 from L_SpaceCurves import L_SpaceCurves as ls
 
-ls = ls.L_SpaceCurves(leng=10, speed=0, iter=2, origin=(0, 0))
+l = ls.L_SpaceCurves(leng=10, speed=0, iter=2, origin=(0, 0))
 # leng is the size of each line to construct the curve
 # speed is the speed to contruct the curve. 0 fast, 10 sloow
 # iter is the total of iteractions that you wish (more iteractions is more time)
