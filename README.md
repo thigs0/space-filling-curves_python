@@ -192,5 +192,6 @@ $ origin is a tuple that set the origin of curve ( nor always the center od curv
 |----------|----------|----------|----------|
 | ![Peano_P_2](/imagem/Peano_P_3.png) | ![Peano_Q_2](/imagem/Peano_Q_3.png) | ![Peano_R_2](/imagem/Peano_R_3.png) | ![Peano_S_2](/imagem/Peano_S_3.png)|
 
+## References
 
-
+Sagan, H. (1994). Space‑Filling Curves. Springer New York. https://doi.org/10.1007/978-1-4612-0871-6
